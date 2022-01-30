@@ -248,7 +248,7 @@
 ***
 - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
 - [Тестирование реляционных баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3267-testing-with-relational-databases)
-- [SQL](https://qastart.by/class-6) [SQL](https://www.asozykin.ru/courses/sql
+- [SQL](https://qastart.by/class-6) [SQL](https://www.asozykin.ru/courses/sql)
 - [Команды](https://www.dropbox.com/s/pjvdrrh7ap3jwlq/SQL.docx?dl=0)
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
 - [Joins](http://barbaricqa.com/blog/wp-content/uploads/2013/10/SQL-Joins-visualisation.jpeg)
